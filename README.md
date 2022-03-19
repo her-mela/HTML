@@ -1,2 +1,3 @@
 # HTML
-this are html codes used for project and practices. 
+this are html tags 
+used for project and practices. 
